@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hello, I'm Taner 👋
-     Frontend Developer from Istanbul <img width="13" style="max-width: 100%" alt="istanbul" src="https://camo.githubusercontent.com/1a97be9faa4d1fc5e05b06a4012a818d8b804e0b/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3934302f3934303136342e737667" /> 
+
+Frontend Developer from Istanbul <img width="13" style="max-width: 100%" alt="istanbul" src="https://camo.githubusercontent.com/1a97be9faa4d1fc5e05b06a4012a818d8b804e0b/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3934302f3934303136342e737667" /> 
 
 ⚡ Technologies I use
 
