@@ -25,6 +25,7 @@ Frontend Developer from Istanbul <img width="13" style="max-width: 100%" alt="is
 <a href="https://linkedin.com/tanerakhan" target="_blank"><img align="left" alt="Taner Akhan | LinkedIn" width="22px" style="max-width:100%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://instagram.com/tanerakhan" target="_blank"><img align="left" alt="Taner Akhan | Instagram" width="22px" style="max-width:100%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
+<br />
 <hr />
 
 ### Technologies I use ⚡
