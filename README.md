@@ -21,13 +21,12 @@ Frontend Developer from Istanbul <img width="13" style="max-width: 100%" alt="is
 
 ### Connect with me: 
 
-<a href="https://tanerakhan.com" target="_blank"><img align="left" alt="Taner Akhan | Web Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://linkedin.com/tanerakhan" target="_blank"><img align="left" alt="Taner Akhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/tanerakhan" target="_blank"><img align="left" alt="Taner Akhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://tanerakhan.com" target="_blank"><img align="left" alt="Taner Akhan | Web Site" width="22px" style="max-width:100%" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://linkedin.com/tanerakhan" target="_blank"><img align="left" alt="Taner Akhan | LinkedIn" width="22px" style="max-width:100%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/tanerakhan" target="_blank"><img align="left" alt="Taner Akhan | Instagram" width="22px" style="max-width:100%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<br />
 
-⚡ Technologies I use
+### ⚡ Technologies I use:
 
 <div style="display: flex; justify-content: center;  ">
 <img style="padding-left: 5px" alt="Vue" src="https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
