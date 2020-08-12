@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 Frontend Developer from Istanbul <img width="13" style="max-width: 100%" alt="istanbul" src="https://camo.githubusercontent.com/1a97be9faa4d1fc5e05b06a4012a818d8b804e0b/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3934302f3934303136342e737667" /> 
 
+<br />
+
+### Connect with me: 
+
+[<img align="left" alt="Taner Akhan | Web Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Taner Akhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Taner Akhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ⚡ Technologies I use
 
 <div style="display: flex; justify-content: center;  ">
