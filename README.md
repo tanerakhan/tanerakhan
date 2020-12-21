@@ -33,8 +33,6 @@ Frontend Developer from Istanbul <img width="13" style="max-width: 100%" alt="is
 
 <div style="display: flex; justify-content: center;  ">
 <img style="padding-left: 5px" alt="Vue" src="https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
-<img style="padding-left: 5px" alt="Javascript" src="https://img.shields.io/badge/Javascript-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
-<img style="padding-left: 5px" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
 <img style="padding-left: 5px" alt="React" src="https://img.shields.io/badge/React-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
 <img style="padding-left: 5px" alt="NodeJS" src="https://img.shields.io/badge/Node.JS-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
 </div>
