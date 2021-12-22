@@ -1,11 +1,4 @@
-### Hi, I'm Taner 👋
-
-Frontend Developer from Istanbul  
-
-<hr />
-
 ### Connect with me 💬
-
 
 <a target="_blank" href="https://linkedin.com/tanerakhan/">
   <img align="left" alt="Taner Akhan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
