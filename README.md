@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/tanerakhan"><img src="https://api.daily.dev/devcards/7889c04c3e684655beb3b29f6c98fc36.png?r=ak2" width="400" alt="Taner Akhan's Dev Card"/></a>
+<a href="https://app.daily.dev/tanerakhan"><img src="https://api.daily.dev/devcards/7889c04c3e684655beb3b29f6c98fc36.png?r=djm" width="400" alt="Taner Akhan's Dev Card"/></a>
 
 ### Connect with me 💬
 
