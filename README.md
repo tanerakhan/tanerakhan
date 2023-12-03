@@ -1,6 +1,6 @@
 ### Connect with me 💬
 
-<a target="_blank" href="https://linkedin.com/tanerakhan/">
+<a href="https://www.linkedin.com/in/tanerakhan/" target="_blank">
   <img align="left" alt="Taner Akhan | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" />
 </a>
 <a href="https://stackoverflow.com/users/10539587/taner-akhan" target="_blank">
