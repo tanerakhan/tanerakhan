@@ -1,4 +1,4 @@
-Hi 👋 My name is Taner Akhan
+Hi 👋 
 ============================
 
 Frontend Development
